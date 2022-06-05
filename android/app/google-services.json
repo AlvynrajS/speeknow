@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423161457550",
+    "project_id": "speaknow-7d438",
+    "storage_bucket": "speaknow-7d438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423161457550:android:587c6f5d941041fd5152df",
+        "android_client_info": {
+          "package_name": "com.example.speak_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423161457550-6n1rohjk5qra89frr631lufc3etfsf6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYW2XvKjBw2kjtcSldnKrRYLE2BCqM2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423161457550-6n1rohjk5qra89frr631lufc3etfsf6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
